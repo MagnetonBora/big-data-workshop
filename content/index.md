@@ -2,6 +2,8 @@
 
 [[Advance Your Skills at the Big Data Workshop]]
 
+[[Instructor]]
+
 ---
 # Day 1
 
