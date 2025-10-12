@@ -46,7 +46,9 @@ Roman Dryndik
 
 🕒 14:25–15:55 — Session 4
 
-🧘 15:55–17:00 — Wrap-up
+☕ 15:55-16:10  — Break
+
+🧘 16:10–17:00 — Wrap-up
 
 ### Next Steps
 
