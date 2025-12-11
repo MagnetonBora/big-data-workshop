@@ -23,11 +23,16 @@
 
 - [ ] [[3. Integration of Big Data with BI and Analytics]]
 
----
-
 # Presentations
 
 - [[big_data_from_chaos_to_value.pdf|Big Data from chaos to value]]
+
 - [[lambda_vs_kappa.pdf|Lambda vs Kappa]]
 
+---
+
 [[Glossary]]
+
+[[Appendix 1]]
+
+[[Appendix 2]]
