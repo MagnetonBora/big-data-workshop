@@ -25,4 +25,8 @@
 
 ---
 
+# Presentations
+
+- [[big_data_from_chaos_to_value.pdf|Big Data from chaos to value]]
+
 [[Glossary]]
