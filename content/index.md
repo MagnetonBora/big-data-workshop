@@ -31,6 +31,8 @@
 
 ---
 
+[[FAQ]]
+
 [[Glossary]]
 
 [[Appendix 1]]
