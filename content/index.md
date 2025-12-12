@@ -19,7 +19,7 @@
 
 - [ ] [[1. Introduction to Real-Time Data Processing]]
 
-- [ ] [[2. Apache Spark Streaming]]
+- [ ] [[2. Apache Spark]]
 
 - [ ] [[3. Integration of Big Data with BI and Analytics]]
 
