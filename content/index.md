@@ -1,6 +1,6 @@
 [[index|Index]]
 
-[[Advance Your Skills at the Big Data Workshop]]
+[[Welcome]]
 
 [[Instructor]]
 

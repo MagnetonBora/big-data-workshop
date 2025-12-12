@@ -26,7 +26,7 @@ Roman Dryndik
 
 - A focus on **Introduction to Real-Time Data Processing**.
     
-- Practical sessions on **Apache Spark Streaming** for high-velocity data analysis.
+- Practical sessions on **Apache Spark**.
     
 - Integrating Big Data solutions with Business Intelligence (BI) and **Analytics** platforms.
 
@@ -52,7 +52,6 @@ Roman Dryndik
 
 ### Next Steps
 
-Please, join our slack http://bit.ly/4nSvg2w
+Please, join our slack https://bit.ly/4adyDNQ
 
-<img src="invite.jpeg" alt="drawing" width="350"/>
-
+<img src="invite.png" alt="drawing" width="350"/>
