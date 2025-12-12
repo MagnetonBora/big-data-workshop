@@ -29,6 +29,8 @@
 
 - [[lambda_vs_kappa.pdf|Lambda vs Kappa]]
 
+- [[Spark_Architecture_Under_the_Hood.pdf|Apache Spark Architecture]]
+
 ---
 
 [[FAQ]]
