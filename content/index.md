@@ -31,6 +31,8 @@
 
 - [[Spark_Architecture_Under_the_Hood.pdf|Apache Spark Architecture]]
 
+- [[DND_DeltaLake_optimization.pdf|Delta Lake Optimization Mechanisms]]
+
 ---
 
 [[FAQ]]
