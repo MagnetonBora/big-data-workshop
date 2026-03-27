@@ -52,6 +52,6 @@ Roman Dryndik
 
 ### Next Steps
 
-Please, join our slack https://bit.ly/4r2MOul
+Please, join our slack https://bit.ly/3Q4fe9L
 
 <img src="invite.png" alt="drawing" width="350"/>
